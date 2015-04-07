@@ -32,4 +32,6 @@ For convenience, a Timatic DB is included (Timatic.db)
 
 TimaticParser.py
 
-Attempt to parse Timatic texts to get simple Yes/No visa requirement
+Attempt to parse Timatic texts to get simple Yes/No visa requirement. The code presented here is
+quite experiemental and errs on converative side (i.e. more false negatives). I appreciate any
+suggestions on replacing regex with something sane.
